@@ -1,5 +1,5 @@
 let userList = [];
-const API_EP = "https://randomuser.me/api/?results=20";
+const API_EP = "https://randomuser.me/api/?results=1000";
 const searchElem = document.getElementById("search");
 const genderElem = document.getElementById("gender");
 const usersListElem = document.getElementById("users");
